@@ -33,7 +33,7 @@ const Navbar = () => {
     return (
 
         <>
-            <div className="flex bg-white items-center justify-between border-b border-gray-300 px-4 py-4">
+            <div className="flex bg-[#F9FAFB] items-center justify-between border-b border-gray-300 px-4 py-4">
                 <div className="flex gap-3 items-center justify-between">
                     <FaHouseUser className="h-7 w-7 text-color hover:scale-110 hover:cursor-pointer"></FaHouseUser>
                     <p>DashBoard</p>
